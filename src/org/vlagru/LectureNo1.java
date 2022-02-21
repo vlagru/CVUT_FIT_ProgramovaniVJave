@@ -2,7 +2,7 @@ package org.vlagru;
 
 public class LectureNo1 {
 
-    public static void main(String[] args) {
+    public static void main (String[] args) {
 
             System.out.println("Nazdar");
 
