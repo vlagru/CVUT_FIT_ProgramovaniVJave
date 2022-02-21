@@ -1,6 +1,6 @@
 package org.vlagru;
 
-public class Main {
+public class LectureNo1 {
 
     public static void main(String[] args) {
 
